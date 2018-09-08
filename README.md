@@ -1,2 +1,2 @@
-# Algorithems
+# Algorithms
 Implementation of algorithms in Python
