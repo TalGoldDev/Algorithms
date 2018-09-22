@@ -18,9 +18,9 @@ def insertion_sort(array):
                 array[i + 1] = array[i]
 
             array[correct_place_in_array] = temp
-            pointer_sorted += 1
-        else:
-            pointer_sorted += 1
+        # common code section
+        pointer_sorted += 1
+
 
 
 def main():
